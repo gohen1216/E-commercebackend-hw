@@ -28,10 +28,7 @@ Product.init(
       allowNull: false,
       default:10
     },
-    pages: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-    },
+    
    
   
     category_id: {
